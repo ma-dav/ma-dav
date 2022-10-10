@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mohmmedayman-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohammed Ayman
+
+
+A little about me
+
+💻 senior Android Developer 
+💠 Currently learning Jetpack Compose. 
 
 <!---
 mohmmedayman-dev/mohmmedayman-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
