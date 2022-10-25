@@ -14,8 +14,8 @@ A little about me
 💻 senior Android Developer 
 💠 Currently learning Jetpack Compose. 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ma-dav&theme=tokyonight&show_icons=true&locale=en" alt="simgesengun" /></p>
+<p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ma-dav&theme=ads-juicy-fresh" alt="simgesengun" /></p>
 
-<p align="center" >[![GitHub Streak]( http://github-readme-streak-stats.herokuapp.com?user=ma-dav&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 <!---
 mohmmedayman-dev/mohmmedayman-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
